@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 /**
- * Created by biglove-work on 2016/5/16.
+ * Created by enid on 2016/5/16.
  */
 public class MainActivity extends Activity{
     @Override
